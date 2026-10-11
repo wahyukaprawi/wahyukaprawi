@@ -17,7 +17,7 @@
       <td valign="top" width="55%">
         <br>
         <p align="left">
-          Hi, I'm Wahyu, a mobile developer based in Jakarta, specializing in <b>Flutter</b>.<br><br>
+          Hi, I'm wahyu, a mobile developer specializing in <b>Flutter</b>.<br><br>
           I enjoy building apps that solve real problems, with a focus on clean architecture, responsive UI, and
           practical REST API integration. I've been turning Figma designs into polished Flutter
           screens and working closely with back-end teams.<br><br>
