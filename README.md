@@ -25,9 +25,9 @@
         </p>
       </td>
       <td valign="top" width="45%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wahyukaprawi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
+        <img src="https://github-readme-stats.shion.dev/api?username=wahyukaprawi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukaprawi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wahyukaprawi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1" />
       </td>
     </tr>
   </table>
@@ -44,18 +44,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" valign="top" width="50%">
-        <b>💻 Languages</b><br><br>
+      <td align="center" valign="top">
+        <b>💻 Languages &amp; Frameworks</b><br><br>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <b>⚡ Frameworks / Libraries</b><br><br>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </td>
     </tr>
